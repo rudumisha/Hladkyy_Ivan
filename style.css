@@ -1,0 +1,35 @@
+body{
+    text-align:center ;
+    background-color: rgb(187, 154, 114);
+}
+header{
+    border: 3px solid black;
+    background-color: aquamarine;
+
+    padding: 10px;
+}
+nav a{
+    margin: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    background-color: rgb(145, 145, 17);
+    padding: 5px;
+    color: black;
+}
+main p{
+    font-size: 20px;
+    border-radius: 20px;
+    background-color: antiquewhite;
+    padding: 5px;
+}
+footer{
+    text-align: center;
+    padding: 5px;
+    background-color: blue;
+    color: antiquewhite;
+    font-size: 20px;
+}
+img{
+    width: 800px;
+    height: 400px;
+}
